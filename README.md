@@ -28,4 +28,4 @@ It's Test Driven Development (TDD) for LLM-backed apps.
 
 ## References
 
-*- Definition adapted from _[Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/#evals-to-measure-performance) by Eugene Yan.
+*- Definition adapted from _[Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/#evals-to-measure-performance)_ by Eugene Yan.
