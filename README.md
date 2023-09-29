@@ -1,8 +1,10 @@
 # Awesome Eval Driven Development (EDD)
 
-Eval-Driven-Development (EDD) is a methodology for guiding the development of LLM-backed apps via a set of task-specific evals (i.e. prompt, context, expected outputs as references). These evals guide prompt engineering, model selection, fine-tuning, and so on. We can then run these evals to quickly measure improvements or regressions as the app changes. It's Test Driven Development (TDD) for LLM-backed apps.
+Eval-Driven-Development (EDD) is a methodology for guiding the development of LLM-backed apps via a set of task-specific evals (i.e. prompt, context, expected outputs as references).*
 
-Definition adapted from _[Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/#evals-to-measure-performance by Eugene Yan.
+These evals guide prompt engineering, model selection, fine-tuning, and so on. We can then run these evals to quickly measure improvements or regressions as the app changes.
+
+It's Test Driven Development (TDD) for LLM-backed apps.
 
 ## Open-source LLM-backed app evaluation products
 
@@ -20,8 +22,10 @@ Definition adapted from _[Patterns for Building LLM-based Systems & Products](ht
 ## Paid LLM-backed app evaluation products
 
 | Name | Distribution | Maturity | Self-service signup |
-| --- | --- |
+| --- | --- | --- | --- |
 | [Freeplay](https://freeplay.ai/) | SaaS | Private Beta | No |
 | [Patronus AI](https://www.patronus.ai/) | SaaS | Released | No |
 
+## References
 
+*- Definition adapted from _[Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/#evals-to-measure-performance) by Eugene Yan.
