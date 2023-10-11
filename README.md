@@ -13,6 +13,7 @@ It's Test Driven Development (TDD) for LLM-backed apps.
  [Auto Evaluator](https://github.com/rlancemartin/auto-evaluator) | Evaluation tool for LLM QA chains |
  [DeepEval](https://github.com/confident-ai/deepeval) | Evaluation and Unit Testing for LLMs |
  [Evals](https://github.com/openai/evals) | A framework for evaluating LLMs and LLM systems |
+ |[Phoenix](https://github.com/Arize-ai/phoenix) | Evaluate, troubleshoot, and fine tune your LLM in a notebook |
  [Ragas](https://github.com/explodinggradients/ragas ) | Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines |
  [Uptrain](https://github.com/uptrain-ai/uptrain) | Your open-source LLM evaluation toolkit |
 
